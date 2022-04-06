@@ -6,3 +6,6 @@ git remote rm origin
 git remote add origin git@github.com:sifangjienan/learngit.git
 git push -u origin master 
 git push origin master
+
+
+嘎嘎嘎合并会不会有冲突呢

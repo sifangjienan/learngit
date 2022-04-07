@@ -1,0 +1,5 @@
+fix bug 101 
+
+git branch 
+git checkout-b name
+git switch -c name
